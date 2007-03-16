@@ -1,0 +1,10 @@
+Changes
+COPYING
+lib/KA/Tie/Dir/System.pm
+lib/KA/Tie/Dir.pm
+Makefile.PL
+MANIFEST
+README
+t/KA-Tie-Dir.t
+t/KA-Tie-Dir-System.t
+META.yml                                 Module meta-data (added by MakeMaker)
